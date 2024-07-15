@@ -70,11 +70,11 @@
 
 ## Overview
 
-This project is a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. The website includes multiple pages for demonstration and emphasizes layout design.
+This project is a Hero Display Website that showcases distinct design layouts for different features using pure HTML and CSS. The website includes multiple pages for demonstration and emphasizes layout design.
 
 ## Description
 
-This is my Seatwork 4 for my web design class. The goal is to create a well-structured and visually appealing Hero and Card Display Website, utilizing various HTML and CSS techniques to highlight different design elements across multiple pages.
+This is my Seatwork 4 for my web design class. The goal is to Create a Features Display Website showcasing distinct design layouts for different features, utilizing various HTML and CSS techniques to highlight different design elements across multiple pages.
 
 ## Features
 

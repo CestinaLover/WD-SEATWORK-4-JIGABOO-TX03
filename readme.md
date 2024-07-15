@@ -4,23 +4,24 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/CestinaLover/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/jemoepeps.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">The Noirs!!</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to my website fellow Noirs!.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+
+![](https://visit-counter.vercel.app/counter.png?page=CestinaLover/WD-SEATWORK-4-JIGABOO-TX03)
 
 ---
 
@@ -34,8 +35,18 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
+      <li>
+      <a href="#Description:">Website Instructions:</a>
+      <ol>
+      <li>
+      <a href="#Features:">Features:</a>
+    </li>
+      <ol>
+      <li>
+      <a href="#Website-Instructions:">Website Instructions:</a>
+    </li>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#File-Structure">Key Components</a>
         </li>
         <li>
           <a href="#technology">Technology</a>
@@ -48,62 +59,192 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
+    <li>
+      <a href="#my-projects">My Projects</a>
+    </li>
   </ol>
+
 </details>
 
 ---
 
 ## Overview
 
-<!-- TODO: To be changed -->
-Description of the project in details.
+This project is a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. The website includes multiple pages for demonstration and emphasizes layout design.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+## Description
 
-### Key Components
+This is my Seatwork 4 for my web design class. The goal is to create a well-structured and visually appealing Hero and Card Display Website, utilizing various HTML and CSS techniques to highlight different design elements across multiple pages.
+
+## Features
+
+- **Multiple Pages**: The website consists of several pages, each demonstrating different layout designs.
+- **Hero Section**: A prominent hero section on the homepage to capture users' attention.
+- **Card Layouts**: Various card designs to showcase different features and content.
+- **Pure HTML and CSS**: No JavaScript or external libraries, focusing on fundamental web design skills.
+- **Responsive Design**: Ensures the website looks good on all devices.
+
+## Website Instructions:
+
+You will first be sent to the home page where you can read my About Me and other stuff,
+once you are done reading, you can check out The Noir's and the Noir's Gallery by cicking the buttons on the top right, Navigate however you wish, and hope you enjoy my work!.
+
+### File Structure
+
 <!-- TODO: List of Key Components -->
 
+```
+Home
+├─Header Gallery
+├─Noir 1
+├─Noir 2
+├─Noir 3
+├─Noir 4
+└─Noir's Gallery
+
+```
+
 ### Technology
+
 <!-- TODO: List of Technology Used -->
+
+ACER PREDATOR HELIOS NEO 16
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
-1. Always use ***WD-*** in the Title of the Project for the Subject
+
+1. Always use **_WD-_** in the Title of the Project for the Subject
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
 ```
-WD-ProjectName
-└─ assets
-|   └─ css
-|   |   └─ style.css
-|   └─ js
-|   |   └─ script.js
-|   └─ img
-|       └─ fileWith.jpeg/.jpg/.webp/.png
-└─ pages
-|  └─ pageName
-|     └─ index.html
-|     └─ assets
-|        └─ css
-|        |  └─ style.css
-|        └─ js
-|        |  └─ script.js
-|        └─ img
-|           └─ fileWith.jpeg/.jpg/.webp/.png
-└─ index.html
+WD-HANDS-ON-2-JIGABOO-TX03
+├─ .vscode
+│  └─ settings.json
+├─ assets
+│  ├─ css
+│  │  └─ style.css
+│  ├─ img
+│  │  ├─ Chief.png
+│  │  ├─ DarkSky.jpg
+│  │  ├─ Dousy.jpg
+│  │  ├─ GoW.jpg
+│  │  ├─ Halo.jpg
+│  │  ├─ heatblast.png
+│  │  ├─ HotJigaboo.jpg
+│  │  ├─ jemoepeps.png
+│  │  ├─ kratos.png
+│  │  ├─ NightSky.jpg
+│  │  ├─ nyebe_white.png
+│  │  ├─ snorlax jimbo.png
+│  │  ├─ Star Wars Galaxy Background.jpg
+│  │  ├─ SungJinWoo.png
+│  │  └─ Volcano.png
+│  └─ js
+│     └─ script.js
+├─ card-gallery
+│  ├─ Noir1
+│  │  ├─ assets
+│  │  │  ├─ css
+│  │  │  │  └─ style.css
+│  │  │  ├─ img
+│  │  │  │  ├─ Dousy.jpg
+│  │  │  │  ├─ heatblast.png
+│  │  │  │  ├─ HotJigaboo.jpg
+│  │  │  │  ├─ jemoepeps.png
+│  │  │  │  ├─ nyebe_white.png
+│  │  │  │  └─ snorlax jimbo.png
+│  │  │  └─ js
+│  │  │     ├─ script.js
+│  │  │     └─ scripts.js
+│  │  └─ index.html
+│  ├─ Noir2
+│  │  ├─ assets
+│  │  │  ├─ css
+│  │  │  │  └─ style.css
+│  │  │  ├─ img
+│  │  │  │  ├─ Dousy.jpg
+│  │  │  │  ├─ heatblast.png
+│  │  │  │  ├─ HotJigaboo.jpg
+│  │  │  │  ├─ jemoepeps.png
+│  │  │  │  ├─ nyebe_white.png
+│  │  │  │  └─ snorlax jimbo.png
+│  │  │  └─ js
+│  │  │     ├─ script.js
+│  │  │     └─ scripts.js
+│  │  └─ index.html
+│  ├─ Noir3
+│  │  ├─ assets
+│  │  │  ├─ css
+│  │  │  │  └─ style.css
+│  │  │  ├─ img
+│  │  │  │  ├─ Dousy.jpg
+│  │  │  │  ├─ heatblast.png
+│  │  │  │  ├─ HotJigaboo.jpg
+│  │  │  │  ├─ jemoepeps.png
+│  │  │  │  ├─ nyebe_white.png
+│  │  │  │  └─ snorlax jimbo.png
+│  │  │  └─ js
+│  │  │     ├─ script.js
+│  │  │     └─ scripts.js
+│  │  └─ index.html
+│  ├─ Noir4
+│  │  ├─ assets
+│  │  │  ├─ css
+│  │  │  │  └─ style.css
+│  │  │  ├─ img
+│  │  │  │  ├─ Dousy.jpg
+│  │  │  │  ├─ heatblast.png
+│  │  │  │  ├─ HotJigaboo.jpg
+│  │  │  │  ├─ jemoepeps.png
+│  │  │  │  ├─ nyebe_white.png
+│  │  │  │  └─ snorlax jimbo.png
+│  │  │  └─ js
+│  │  │     ├─ script.js
+│  │  │     └─ scripts.js
+│  │  └─ index.html
+│  └─ NoirGallery
+│     ├─ assets
+│     │  ├─ css
+│     │  │  └─ style.css
+│     │  ├─ img
+│     │  │  ├─ Dousy.jpg
+│     │  │  ├─ heatblast.png
+│     │  │  ├─ HotJigaboo.jpg
+│     │  │  ├─ jemoepeps.png
+│     │  │  ├─ nyebe_white.png
+│     │  │  └─ snorlax jimbo.png
+│     │  └─ js
+│     │     ├─ script.js
+│     │     └─ scripts.js
+│     └─ index.html
+├─ doc
+│  └─ emmet.txt
+├─ index.html
 └─ readme.md
+
 ```
 
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| Title   | Purpose                               | Link                                     |
+| ------- | ------------------------------------- | ---------------------------------------- |
+| UIVERSE | A site containing UI elements for css | https://uiverse.io/buttons?orderBy=views |
+| CODEPEN | A site for code lovers                | https://codepen.io/trending              |
+| NONE    | NONE                                  | NONE                                     |
+| NONE    | NONE                                  | NONE                                     |
+
+## My Projects
+
+| Title             | Purpose                                   | Link                                                        |
+| ----------------- | ----------------------------------------- | ----------------------------------------------------------- |
+| My Resume Project | A Project to use html to create a resume. | https://cestinalover.github.io/WD-Seatwork-jigaboo-2-TX03/  |
+| My Midterm Exam   | Midterm Grade                             | https://cestinalover.github.io/WD-Midterm-Exam-Damaso-TX03/ |
+| SEATWORK 3        | Schoolwork                                | https://cestinalover.github.io/WD-SEATWORK-3-JIGABOO-TX03/  |
+| Hands On 2        | Schoolwork                                | https://cestinalover.github.io/WD-HANDS-ON-2-JIGABOO-TX03/  |
+| SEATWORK 4        | Schoolwork                                | https://cestinalover.github.io/WD-SEATWORK-4-JIGABOO-TX03/  |

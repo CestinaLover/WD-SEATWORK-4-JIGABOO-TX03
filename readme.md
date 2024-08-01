@@ -86,59 +86,95 @@ once you are done reading, you can check out The Noir's and the Noir's Gallery b
 <!-- TODO: List of Key Components -->
 
 ```
-Home
-├─Header Gallery
-├─Noir 1
-├─Noir 2
-├─Noir 3
-├─Noir 4
-└─Noir's Gallery
-
-```
-
-### Technology
-
-<!-- TODO: List of Technology Used -->
-
-ACER PREDATOR HELIOS NEO 16
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
-## Rules and Principles
-
-1. Always use **_WD-_** in the Title of the Project for the Subject
-2. Do not rename any .html files; always use 'index.html' as the filename.
-3. File Structure to follow
-
-```
-WD-HANDS-ON-2-JIGABOO-TX03
-├─ .vscode
-│  └─ settings.json
+WD-SEATWORK-4-JIGABOO-TX03
 ├─ assets
 │  ├─ css
+│  │  ├─ buy.css
 │  │  └─ style.css
+│  ├─ fonts
+│  │  ├─ GODOFWAR.TTF
+│  │  ├─ Halo.ttf
+│  │  ├─ Satisfontory_v1.5.ttf
+│  │  └─ SoloLevelDemo.otf
 │  ├─ img
+│  │  ├─ 1.jpg
+│  │  ├─ 2.jpg
+│  │  ├─ 3.jpg
+│  │  ├─ AdultWoo.jpg
+│  │  ├─ Arkham.jpg
+│  │  ├─ arkhamknight.jpg
+│  │  ├─ assembler.gif
+│  │  ├─ assembler.jpg
+│  │  ├─ batarangfacts.png
+│  │  ├─ Batman.png
+│  │  ├─ batmanbatarang.jpg
+│  │  ├─ batmancombat.png
+│  │  ├─ batmanelectric.jpg
+│  │  ├─ batmanline.jpg
+│  │  ├─ batmanmaps.png
+│  │  ├─ batmanscarecrow.png
+│  │  ├─ car.gif
+│  │  ├─ cart.jpg
 │  │  ├─ Chief.png
 │  │  ├─ DarkSky.jpg
 │  │  ├─ Dousy.jpg
+│  │  ├─ dousycut.png
+│  │  ├─ extractor.png
+│  │  ├─ fb.png
+│  │  ├─ gmail.png
+│  │  ├─ gojo1.png
 │  │  ├─ GoW.jpg
 │  │  ├─ Halo.jpg
+│  │  ├─ handson2.png
+│  │  ├─ harley.jpg
 │  │  ├─ heatblast.png
 │  │  ├─ HotJigaboo.jpg
+│  │  ├─ index.html
+│  │  ├─ instagram.png
 │  │  ├─ jemoepeps.png
+│  │  ├─ joker.jpg
+│  │  ├─ jumppads.gif
+│  │  ├─ jumppads.jpg
 │  │  ├─ kratos.png
+│  │  ├─ linelauncherfacts.png
+│  │  ├─ logo.png
+│  │  ├─ midtermexam.png
+│  │  ├─ model.png
 │  │  ├─ NightSky.jpg
+│  │  ├─ NOIR.jpg
 │  │  ├─ nyebe_white.png
+│  │  ├─ remoteelectricfacts.png
+│  │  ├─ resume.png
+│  │  ├─ satisboi.png
+│  │  ├─ satisfactorybuild.gif
+│  │  ├─ satisfactorycraft.gif
+│  │  ├─ satisfactoryfriends.gif
+│  │  ├─ scarecrow.jpg
+│  │  ├─ scarecrow.png
+│  │  ├─ seatwork3.png
+│  │  ├─ seatwork4.png
 │  │  ├─ snorlax jimbo.png
+│  │  ├─ spacetower.gif
+│  │  ├─ spacetower.jpg
 │  │  ├─ Star Wars Galaxy Background.jpg
+│  │  ├─ SUKUNA.png
 │  │  ├─ SungJinWoo.png
-│  │  └─ Volcano.png
+│  │  ├─ TeenWoo.jpg
+│  │  ├─ TORII.jpg
+│  │  ├─ train.gif
+│  │  ├─ train.jpg
+│  │  ├─ Volcano.png
+│  │  ├─ water.gif
+│  │  ├─ x.png
+│  │  └─ youngWoo.jpg
 │  └─ js
+│     ├─ buy.js
 │     └─ script.js
-├─ card-gallery
-│  ├─ Noir1
+├─ doc
+│  └─ emmet.txt
+├─ index.html
+├─ pages
+│  ├─ feature-1
 │  │  ├─ assets
 │  │  │  ├─ css
 │  │  │  │  └─ style.css
@@ -153,52 +189,7 @@ WD-HANDS-ON-2-JIGABOO-TX03
 │  │  │     ├─ script.js
 │  │  │     └─ scripts.js
 │  │  └─ index.html
-│  ├─ Noir2
-│  │  ├─ assets
-│  │  │  ├─ css
-│  │  │  │  └─ style.css
-│  │  │  ├─ img
-│  │  │  │  ├─ Dousy.jpg
-│  │  │  │  ├─ heatblast.png
-│  │  │  │  ├─ HotJigaboo.jpg
-│  │  │  │  ├─ jemoepeps.png
-│  │  │  │  ├─ nyebe_white.png
-│  │  │  │  └─ snorlax jimbo.png
-│  │  │  └─ js
-│  │  │     ├─ script.js
-│  │  │     └─ scripts.js
-│  │  └─ index.html
-│  ├─ Noir3
-│  │  ├─ assets
-│  │  │  ├─ css
-│  │  │  │  └─ style.css
-│  │  │  ├─ img
-│  │  │  │  ├─ Dousy.jpg
-│  │  │  │  ├─ heatblast.png
-│  │  │  │  ├─ HotJigaboo.jpg
-│  │  │  │  ├─ jemoepeps.png
-│  │  │  │  ├─ nyebe_white.png
-│  │  │  │  └─ snorlax jimbo.png
-│  │  │  └─ js
-│  │  │     ├─ script.js
-│  │  │     └─ scripts.js
-│  │  └─ index.html
-│  ├─ Noir4
-│  │  ├─ assets
-│  │  │  ├─ css
-│  │  │  │  └─ style.css
-│  │  │  ├─ img
-│  │  │  │  ├─ Dousy.jpg
-│  │  │  │  ├─ heatblast.png
-│  │  │  │  ├─ HotJigaboo.jpg
-│  │  │  │  ├─ jemoepeps.png
-│  │  │  │  ├─ nyebe_white.png
-│  │  │  │  └─ snorlax jimbo.png
-│  │  │  └─ js
-│  │  │     ├─ script.js
-│  │  │     └─ scripts.js
-│  │  └─ index.html
-│  └─ NoirGallery
+│  └─ feature-2
 │     ├─ assets
 │     │  ├─ css
 │     │  │  └─ style.css
@@ -213,12 +204,19 @@ WD-HANDS-ON-2-JIGABOO-TX03
 │     │     ├─ script.js
 │     │     └─ scripts.js
 │     └─ index.html
-├─ doc
-│  └─ emmet.txt
-├─ index.html
 └─ readme.md
 
 ```
+
+### Technology
+
+<!-- TODO: List of Technology Used -->
+
+ACER PREDATOR HELIOS NEO 16
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Resources
 
@@ -240,3 +238,4 @@ WD-HANDS-ON-2-JIGABOO-TX03
 | SEATWORK 3        | Schoolwork                                | https://cestinalover.github.io/WD-SEATWORK-3-JIGABOO-TX03/  |
 | Hands On 2        | Schoolwork                                | https://cestinalover.github.io/WD-HANDS-ON-2-JIGABOO-TX03/  |
 | SEATWORK 4        | Schoolwork                                | https://cestinalover.github.io/WD-SEATWORK-4-JIGABOO-TX03/  |
+| FINALS            | Schoolwork                                | https://cestinalover.github.io/WD-Finals/                   |

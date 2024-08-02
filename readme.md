@@ -69,17 +69,19 @@
 
 <!-- TODO: To be changed -->
 
-This is the overview for my shizzle dibbles
+Welcome to the Hands-On 2 project for my web design class. This project aims to create a visually appealing and functional Hero and Card Display Website. The website is designed to showcase distinct design layouts for various features using pure HTML and CSS. The project is structured to include multiple pages for demonstration, emphasizing layout design and user experience.
 
 ## Description
 
-This is my Seatwork 4 it is a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. 
-The website includes multiple pages for demonstration and emphasizes layout design.
+This is my Hands-On 2 for my web design class, hope you like it!
+The goal is to make a cool Hero and Card Display Website.
 
 ## Website Instructions:
 
-You will first be sent to the home page where you can read my About Me and other stuff,
-once you are done reading, you can check out The Noir's and the Noir's Gallery by cicking the buttons on the top right, Navigate however you wish, and hope you enjoy my work!.
+You will first be sent to the home page where you can read my About the purpose of the site,
+once you are done reading, you can check out Feature 1 page or Feature 2 page by clicking the buttons on the top right,
+Noir's Card Gallery contains 2 feature pages to demonstrate different feature layouts. the layouts are distinct and visually appealing,
+navigate however you wish, and hope you enjoy my work!
 
 ### File Structure
 

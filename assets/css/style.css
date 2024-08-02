@@ -3567,3 +3567,73 @@ fanum-body {
 .fanum-button:hover:before {
   width: 100%;
 }
+
+
+.fanum-card {
+  height: 260px;
+  width: 300px;
+  background: grey;
+  border-radius: 10px;
+  transition: background 0.8s, transform 0.8s;
+  overflow: hidden;
+  background: black;
+  box-shadow: 0 50px 40px -30px #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.fanum-card0 {
+  background: url('/WD-SEATWORK-4-JIGABOO-TX03/assets/img/spacetower.jpg') center center no-repeat;
+  background-size: 250px;
+  background-color: #08383d;
+  transform: scale(1.1); /* This will zoom in the entire card */
+}
+
+.fanum-card0:hover {
+  background: url('/WD-SEATWORK-4-JIGABOO-TX03/assets/img/spacetower.gif') center center no-repeat;
+  background-size: 436px;
+  transform: scale(1.1); /* This will zoom in the entire card */
+}
+
+.fanum-card0:hover yeet,
+.fanum-card0:hover .fa {
+  opacity: 1;
+}
+
+.fanum-card1 {
+  background: url('/WD-SEATWORK-4-JIGABOO-TX03/assets/img/train.jpg') center center no-repeat;
+  background-size: 250px;
+  background-color: #08383d;
+  transform: scale(1.1); /* This will zoom in the entire card */
+}
+
+.fanum-card1:hover {
+  background: url('/WD-SEATWORK-4-JIGABOO-TX03/assets/img/train.gif') center center no-repeat;
+  background-size: 436px;
+  transform: scale(1.1); /* This will zoom in the entire card */
+}
+
+.fanum-card1:hover yeet,
+.fanum-card1:hover .fa {
+  opacity: 1;
+}
+
+.fanum-card2 {
+  background: url('/WD-SEATWORK-4-JIGABOO-TX03/assets/img/jumppads.jpg') center center no-repeat;
+  background-size: 250px;
+  background-color: #08383d;
+  transform: scale(1.1); /* This will zoom in the entire card */
+}
+
+.fanum-card2:hover {
+  background: url('/WD-SEATWORK-4-JIGABOO-TX03/assets/img/jumppads.gif') center center no-repeat;
+  background-size: 436px;
+  transform: scale(1.1); /* This will zoom in the entire card */
+}
+
+.fanum-card2:hover yeet,
+.fanum-card2:hover .fa {
+  opacity: 1;
+}

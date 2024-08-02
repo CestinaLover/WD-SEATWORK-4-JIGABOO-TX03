@@ -74,13 +74,14 @@ Welcome to the Hands-On 2 project for my web design class. This project aims to 
 ## Description
 
 This is my Hands-On 2 for my web design class, hope you like it!
-The goal is to make a cool Hero and Card Display Website.
+The goal is to make a cool Hero and Card Display Website,
+Noir's Card Gallery contains 2 feature pages to demonstrate different feature layouts.
+the layouts are distinct and visually appealing.
 
 ## Website Instructions:
 
 You will first be sent to the home page where you can read my About the purpose of the site,
 once you are done reading, you can check out Feature 1 page or Feature 2 page by clicking the buttons on the top right,
-Noir's Card Gallery contains 2 feature pages to demonstrate different feature layouts. the layouts are distinct and visually appealing,
 navigate however you wish, and hope you enjoy my work!
 
 ### File Structure

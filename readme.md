@@ -73,7 +73,7 @@ This is the overview for my shizzle dibbles
 
 ## Description
 
-This is my Finals Project it is a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. 
+This is my Seatwork 4 it is a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. 
 The website includes multiple pages for demonstration and emphasizes layout design.
 
 ## Website Instructions:

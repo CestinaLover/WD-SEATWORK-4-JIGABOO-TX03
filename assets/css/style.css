@@ -1207,6 +1207,7 @@ button7 {
 .flip-container {
   perspective: 1000px;
   display: flex;
+  padding: 20px;
   justify-content: center;
   flex-wrap: wrap;
   gap: 10px; /* Space between cards */

@@ -69,14 +69,11 @@
 
 <!-- TODO: To be changed -->
 
-Welcome to the Hands-On 2 project for my web design class. This project aims to create a visually appealing and functional Hero and Card Display Website. The website is designed to showcase distinct design layouts for various features using pure HTML and CSS. The project is structured to include multiple pages for demonstration, emphasizing layout design and user experience.
+This project is my Seatwork 4 a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. The website includes multiple pages for demonstration and emphasizes layout design. The aim is to create a visually engaging and well-structured website that highlights various design elements and techniques.
 
 ## Description
 
-This is my Hands-On 2 for my web design class, hope you like it!
-The goal is to make a cool Hero and Card Display Website,
-Noir's Card Gallery contains 2 feature pages to demonstrate different feature layouts.
-the layouts are distinct and visually appealing.
+This is my Seatwork 4 for my web design class, The goal is to make a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS, Noir's Features Display Website contains 2 feature pages to demonstrate different feature layouts, the layouts are distinct and visually appealing. hope you like it!
 
 ## Website Instructions:
 
@@ -131,6 +128,7 @@ WD-SEATWORK-4-JIGABOO-TX03
 │  │  ├─ handson2.png
 │  │  ├─ harley.jpg
 │  │  ├─ heatblast.png
+│  │  ├─ hogrider.gif
 │  │  ├─ HotJigaboo.jpg
 │  │  ├─ index.html
 │  │  ├─ instagram.png
@@ -144,10 +142,13 @@ WD-SEATWORK-4-JIGABOO-TX03
 │  │  ├─ midtermexam.png
 │  │  ├─ model.png
 │  │  ├─ NightSky.jpg
+│  │  ├─ nightwing.jpg
 │  │  ├─ NOIR.jpg
 │  │  ├─ nyebe_white.png
+│  │  ├─ oracle.jpg
 │  │  ├─ remoteelectricfacts.png
 │  │  ├─ resume.png
+│  │  ├─ robin.jpg
 │  │  ├─ satisboi.png
 │  │  ├─ satisfactorybuild.gif
 │  │  ├─ satisfactorycraft.gif

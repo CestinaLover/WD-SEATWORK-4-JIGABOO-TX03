@@ -73,8 +73,8 @@ This is the overview for my shizzle dibbles
 
 ## Description
 
-This is my Hands-On 2 for my web design class, hope you like it!
-The goal is to make a cool Hero and Card Display Website.
+This is my Finals Project it is a Features Display Website that showcases distinct design layouts for different features using pure HTML and CSS. 
+The website includes multiple pages for demonstration and emphasizes layout design.
 
 ## Website Instructions:
 
